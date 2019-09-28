@@ -1,0 +1,7 @@
+Csharp/.vs/*
+Csharp/Csharp.sln
+Csharp/Csharp/App.config
+Csharp/Csharp/Csharp.csproj
+Csharp/Csharp/bin/*
+Csharp/Csharp/obj/*
+Csharp/Csharp/Properties/*
